@@ -1,0 +1,22 @@
+---
+title: "Learning-resources"
+author: "Serco IDEAS-QA4EO teams"
+date: "Started 3/14/2022 - Update `r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+Below is a list of open learning resources relevant for EO activities  
+
+
+### Jupyter Notebooks for Capacity Development Webinar
++ Recording of 2021 CEOS webinar at <https://ceos.org/meetings/jupyter-notebooks-for-capacity-development-webinar/>
+
+
+### Space Academy Training Modules @ EO AFRICA
++ <https://www.eoafrica-rd.org/space-academy/on-line-courses/>
+
+### EUMETSAT Courses
++ <https://training.eumetsat.int/course/index.php?categoryid=97>
